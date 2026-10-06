@@ -1,0 +1,4 @@
+# Direct dependencies, matching the supplied project environment.
+# tkinter, winreg, and other imports are part of Python on Windows.
+ollama==0.6.3
+customtkinter==6.0.0
